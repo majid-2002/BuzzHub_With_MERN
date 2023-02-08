@@ -1,5 +1,7 @@
 import mongoose from "mongoose";
 
+//*Dummy Data for testing purposes
+
 const userIds = [
   new mongoose.Types.ObjectId(),
   new mongoose.Types.ObjectId(),
